@@ -61,3 +61,8 @@ Pass an exam on July 2, 2020.
 - [Microservices on AWS](https://github.com/almazkun/AWS-Certified-Developer-Associate/blob/master/whitepapers/MAD-Microservices-On-AWS-9.pdf) or [here](https://pages.awscloud.com/rs/112-TZM-766/images/MAD-Microservices-On-AWS-9.pdf)
 - [Running Containerized Microservices on AWS](https://github.com/almazkun/AWS-Certified-Developer-Associate/blob/master/whitepapers/running-containerized-microservices-on-aws.pdf) or [here](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
 - [Blue/Green Deployments on AWS](https://github.com/almazkun/AWS-Certified-Developer-Associate/blob/master/whitepapers/AWS_Blue_Green_Deployments.pdf) or [here](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
+
+
+
+# day -30
+EB config (01:29:24)
