@@ -4,7 +4,7 @@ My AWS Certified Developer Associate preparation
 [AWS Certified Developer - Associate official website](https://aws.amazon.com/certification/certified-developer-associate/)
 
 # Goal
-Pass an exam on July 2, 2020.
+Pass an exam on July 29, 2021.
 
 
 
