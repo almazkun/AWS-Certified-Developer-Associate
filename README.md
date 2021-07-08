@@ -66,3 +66,4 @@ Pass an exam on July 29, 2021.
 
 # day -30
 EB config (01:29:24)
+ECR (Elastic Container Registry) (02:21:00)
