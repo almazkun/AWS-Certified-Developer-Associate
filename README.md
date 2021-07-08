@@ -63,7 +63,3 @@ Pass an exam on July 29, 2021.
 - [Blue/Green Deployments on AWS](https://github.com/almazkun/AWS-Certified-Developer-Associate/blob/master/whitepapers/AWS_Blue_Green_Deployments.pdf) or [here](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
 
 
-
-# day -30
-EB config (01:29:24)
-ECR (Elastic Container Registry) (02:21:00)
