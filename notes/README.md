@@ -5,3 +5,4 @@
 * **day -21**
   - ECR (Elastic Container Registry) (02:21:00)
   - Fargate (02:37:00)
+  - X-ray (02:50:00)
