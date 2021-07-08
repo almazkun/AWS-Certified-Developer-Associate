@@ -8,3 +8,4 @@
   - X-ray (02:50:00)
   - ACM (Amazon Certificate Manager) (03:25:00)
   - Route 53 (03:30:00)
+  - AWS SDK (03:45:00)
