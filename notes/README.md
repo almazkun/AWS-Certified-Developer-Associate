@@ -9,7 +9,7 @@
   - ACM (Amazon Certificate Manager) (03:25:00)
   - Route 53 (03:30:00)
   - AWS SDK (03:45:00)
-* **day -21**
+* **day -9**
   - KMS (04:04:00)
   - Amazon Cognito (04:14:00)
   - SNS (04:26:00)
