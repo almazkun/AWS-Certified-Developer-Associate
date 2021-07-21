@@ -15,3 +15,8 @@
   - SNS (04:26:00)
   - SQS (04:34:00)
   - Kinesis (04:45:00)
+* **day -8**
+  - SSM Parameter Store (04:52:00)
+  - Secrets Manager (04:57:00)
+  - DynamoDB (05:05:00)
+  - 
